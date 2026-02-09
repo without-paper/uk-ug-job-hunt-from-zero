@@ -44,6 +44,7 @@
 ### 大三
 
 * 这一年基本一定一定要找实习了，再不找就晚啦，争取拿到return offer
+* 由于帖主才大二，所以timeline先更新到这里 
 
 ## Spring week
 
