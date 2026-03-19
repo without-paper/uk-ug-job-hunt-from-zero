@@ -55,13 +55,22 @@
 * 申请窗口期在7-12月，比暑期实习开放更早。  
 * 门槛很低，一般考核不涉及到很技术性的问题，大多是behavioral qustions以及一些较为简单的数学游戏和逻辑题。有概率获得次年暑期实习的fast track或直接offer。我朋友的朋友说有个同学就是通过Spring week拿到summer intern，最后拿到return offer了，本科毕业后直接美美工作。
 
-帖主是四年制本科，大一投的时候全军覆没了，大二投了四十多个，拿到了两个offer：
+帖主是四年制本科，大一投的时候全军覆没了，大二投了四十多个，拿到了4个offer：
 
 1. Deloitte Female Insight Day in Glasgow  
    流程：三道不限时&可无限次作答的VI，一道essay题  
    虽然也有OT和VI，但这个活动含金量较低，只有半天，就是介绍公司、请一些职员讲自己的career path、一个小组讨论（给了个荒岛求生分配物资的case）、Q\&A、networking，没有convert或fast track  
 2. BlackRock 2026 Spring Insight Event in Edinburgh with Aladdin Engineering (SE方向)  
    流程：VI (好像是4个问题) \-\> 真人final interview (一共7个comprehensive question，前5个是behavioral question，后2个是senario question。还有对简历项目的问题和一些追问），面试官是Aladdin engineering team的一位成员，很随和，人很不错，我觉得自己答得毫无逻辑，英语也很烂，面试官一直在帮我圆回来，以为寄了，没想到拿到了offer。
+   有convert（指直接拿到summer intern），但是在逐渐降低，24届大概是30%，但是没拿到的也包括自己不想去的。
+3. Early Insights Series at Morgan Stanley
+   无含金量，申请只需要填form即可，oa都没有。只是一个线上的Insight活动，无fast-track。
+4. Technology Developer Discovery Programme at Barclays (London)
+   流程：非常长的OA，貌似还有case study的题目，我都记不清了。
+   这个offer发得特别晚，我3.17也就是活动前一个月才收到，怀疑是有人不想去我被捞了。。
+   虽然只是一个2天的线上活动，但是！！！该活动第二天是AC（assessment center，入职前的最后一步面试），形式是2*1小时的面试，一轮behavioral一轮technical，且technical面不难，没有live coding。
+   AC通过的话会给明年的summer intern，convert率非常非常高，基本答得没大问题都能拿到的。而且summer intern表现好大概率给return offer。
+   不过非常可惜的是这个活动和BlackRock撞车了，纠结了很久很久，只能含泪拒绝。。。
 
 ## 如何从0积攒经验和项目
 
