@@ -55,7 +55,7 @@
 * 申请窗口期在7-12月，比暑期实习开放更早。  
 * 门槛很低，一般考核不涉及到很技术性的问题，大多是behavioral qustions以及一些较为简单的数学游戏和逻辑题。有概率获得次年暑期实习的fast track或直接offer。我朋友的朋友说有个同学就是通过Spring week拿到summer intern，最后拿到return offer了，本科毕业后直接美美工作。
 
-帖主是四年制本科，大一投的时候全军覆没了，大二投了四十多个，拿到了4个offer：
+帖主是四年制本科，大一投的时候全军覆没了，大二投了四十多个，算上小的Insight Event一共拿到了5个offer：
 
 1. Deloitte Female Insight Day in Glasgow  
    流程：三道不限时&可无限次作答的VI，一道essay题  
@@ -71,6 +71,10 @@
    虽然只是一个2天的线上活动，但是！！！该活动第二天是AC（assessment center，入职前的最后一步面试），形式是2*1小时的面试，一轮behavioral一轮technical，且technical面不难，没有live coding。
    AC通过的话会给明年的summer intern，convert率非常非常高，基本答得没大问题都能拿到的。而且summer intern表现好大概率给return offer。
    不过非常可惜的是这个活动和BlackRock撞车了，纠结了很久很久，只能含泪拒绝。。。
+5. Morgan Stanley 2026 Technology Spring Insight in Glasgow
+   流程：记不清了，应该是有OA，但肯定没有真人面。
+   这个offer更是晚到离谱，4.9的活动3.27才发。
+   虽说是线下活动，但是只有两个半小时，估计没fast track啦。
 
 ## 如何从0积攒经验和项目
 
